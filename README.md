@@ -1,4 +1,10 @@
-# WebScrapping con python
+# WebScrapping con python :mag:
+
+## Integrantes :briefcase:
+- Juan Sebastian Ochoa Silva
+- Simon David Lopez Cespedes
+
+## Contenido: :bookmark_tabs:
 
 Es un programa realizado en python, que cumple con la funcion de obtener datos de la web desde la siguiente página: 
 https://www.fundacionaquae.org/25-curiosidades-sobre-las-especies-marinas/. 
